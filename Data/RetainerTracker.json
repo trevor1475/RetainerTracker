@@ -1,0 +1,18 @@
+{
+  "Author": "Arraise",
+  "Name": "RetainerTracker",
+  "Punchline": "Track ventures of your retainers.",
+  "Description": "Sends a chat message in the Retainer Sales text channel when a venture is completed. /rstatus to poll venture and sale information",
+  "Changelog": "Base functionality implementaion",
+  "InternalName": "RetainerTracker",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "retainer",
+    "venture",
+    "sale",
+    "timer"
+  ],
+  "DownloadLinkInstall": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
+  "DownloadLinkTesting": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
+}

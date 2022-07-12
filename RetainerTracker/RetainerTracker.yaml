@@ -1,0 +1,6 @@
+﻿name: Retainer Tracker
+author: trevor1475
+description: Track venture and sales of your retainers.
+punchline: Sends a chat message in the Retainer Sales text channel when a venture is completed. /rstatus to poll venture and sale information.
+repo_url: https://github.com/trevor1475/RetainerTracker,
+DalamudApiLevel: 6
