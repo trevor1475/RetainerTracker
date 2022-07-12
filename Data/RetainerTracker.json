@@ -12,7 +12,7 @@
     "sale",
     "timer"
   ],
-  "DownloadLinkInstall": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
-  "DownloadLinkTesting": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/trevor1475/RetainerTracker/raw/RetainerTracker/Data/latest.zip",
+  "DownloadLinkInstall": "https://github.com/trevor1475/RetainerTracker/raw/master/Data/latest.zip",
+  "DownloadLinkTesting": "https://github.com/trevor1475/RetainerTracker/raw/master/Data/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/trevor1475/RetainerTracker/raw/master/Data/latest.zip",
 }
